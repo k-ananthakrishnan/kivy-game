@@ -1,4 +1,4 @@
-# kivy-game
+# kivy-endless-runner-game
 An endless runner game made using python kivy 
 
 This project builds on top of the course taught in freeCodeCamp (https://youtu.be/l8Imtec4ReQ).
